@@ -67,16 +67,13 @@
     bottom: -3px;
     right: -3px;
     cursor: se-resize;
-}
-
-.blockContent {
-    margin: 10px auto;
-}
-
-.rotate-45 {
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     -o-transform: rotate(45deg);
     transform: rotate(45deg);
+}
+
+.blockContent {
+    margin: 10px auto;
 }
