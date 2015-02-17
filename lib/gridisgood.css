@@ -78,6 +78,17 @@
     margin: 0px;
     height: 20px;
     cursor: move;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.placeholder .dragHandle {
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
 }
 
 .blockContent {
