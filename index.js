@@ -10,6 +10,7 @@ var Test = React.createClass({
                     baseHeight={100}
                     margins={[10, 10]}
                     handle={true}
+                    addable={true}
                     removable={true}
                     resizable={true}
                 >
