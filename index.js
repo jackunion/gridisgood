@@ -1,5 +1,5 @@
 var React = require('react');
-var Grid = require('./lib/Grid');
+var Grid = require('./gridisgood');
 
 var Test = React.createClass({
     render: function () {
