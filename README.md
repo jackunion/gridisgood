@@ -2,11 +2,7 @@
 
 ## Installation
 
-git clone
-
-npm install react
-
-browserify -t reactify index.js -o bundle.js
+npm install gridisgood
 
 ## Demos
 
