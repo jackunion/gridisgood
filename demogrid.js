@@ -6,8 +6,8 @@ var Demo = React.createClass({
         return (
             <div>
                 <Grid
-                    baseWidth={50}
-                    baseHeight={50}
+                    baseWidth={100}
+                    baseHeight={100}
                     handle={true}
                     addable={false}
                     removable={true}

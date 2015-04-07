@@ -1,6 +1,6 @@
 {
   "name": "gridisgood",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gridster.js inspired grid layout for React",
   "main": "index.js",
   "dependencies": {},
