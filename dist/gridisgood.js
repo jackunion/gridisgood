@@ -1,4 +1,14 @@
-/******/ (function(modules) { // webpackBootstrap
+(function webpackUniversalModuleDefinition(root, factory) {
+	if(typeof exports === 'object' && typeof module === 'object')
+		module.exports = factory(require("React"));
+	else if(typeof define === 'function' && define.amd)
+		define(["React"], factory);
+	else if(typeof exports === 'object')
+		exports["Grid"] = factory(require("React"));
+	else
+		root["Grid"] = factory(root["React"]);
+})(this, function(__WEBPACK_EXTERNAL_MODULE_1__) {
+return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 
@@ -315,7 +325,7 @@
 /* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
-	module.exports = React;
+	module.exports = __WEBPACK_EXTERNAL_MODULE_1__;
 
 /***/ },
 /* 2 */
@@ -553,4 +563,6 @@
 	module.exports = u;
 
 /***/ }
-/******/ ]);
+/******/ ])
+});
+;

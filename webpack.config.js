@@ -1,4 +1,8 @@
 module.exports = {
+    output: {
+      libraryTarget: "umd",
+      library: "Grid"
+    },
     resolve: {
         extensions: ['', '.js', '.jsx'],
     },
