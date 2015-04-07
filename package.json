@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "react": "^0.13.1",
+    "react": "^0.13.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

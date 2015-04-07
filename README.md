@@ -10,20 +10,22 @@ npm install gridisgood
 
 ```javascript
 var React = require('react');
-var Grid = require('./gridisgood');
+var Grid = require('gridisgood');
 
-var TestGrid = React.createClass({
+var Demo = React.createClass({
     render: function () {
         return (
             <div>
                 <Grid
                     baseWidth={100}
                     baseHeight={100}
-                    margins={[10, 10]}
                     handle={true}
-                    addable={true}
+                    addable={false}
                     removable={true}
                     resizable={true}
+                    rowsExpandable={true}
+                    colsExpandable={true}
+                    margins={[10, 10]}
                 >
                     <div colspan={1} rowspan={1} row={0} col={0}>1</div>
                     <div colspan={1} rowspan={1} row={0} col={1}>2</div>
@@ -54,7 +56,8 @@ var TestGrid = React.createClass({
 });
 
 React.render(
-    <TestGrid />,
+    <Demo />,
     document.body
 );
+
 ```
