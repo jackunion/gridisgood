@@ -1,0 +1,23 @@
+{
+  "name": "gridisgood",
+  "version": "0.1.0",
+  "description": "gridster.js inspired grid layout for React",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.1",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackunion/gridisgood"
+  },
+  "author": "Jack Union",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackunion/gridisgood/issues"
+  },
+  "homepage": "https://github.com/jackunion/gridisgood"
+}
