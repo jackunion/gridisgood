@@ -1,8 +1,8 @@
 # gridisgood
 
-gridisgood is yet another grid system, heavily inspired by (gridster.js)[http://gridster.net/].
+gridisgood is yet another grid system, heavily inspired by [gridster.js](http://gridster.net/).
 
-Unlike (React-Grid-Layout)[https://github.com/STRML/react-grid-layout], gridisgood does not provide drag functionality per se, using different approach to make it feel draggable. If at some point it turns out that gridisgood doesn't quite fit your needs, go check (React-Grid-Layout)[https://github.com/STRML/react-grid-layout] out.
+Unlike [React-Grid-Layout](https://github.com/STRML/react-grid-layout), gridisgood does not provide drag functionality per se, using different approach to make it feel draggable. If at some point it turns out that gridisgood doesn't quite fit your needs, go check [React-Grid-Layout](https://github.com/STRML/react-grid-layout) out.
 
 The best thing about gridisgood? It has no dependencies (well, that would be the second best thing, right after gridisgood's awesomeness.)
 
@@ -60,6 +60,6 @@ React.render(
 
 ## Playground
 
-(jsFiddle){http://jsfiddle.net/jackunion/yxaaqmcg/}
+[jsFiddle](http://jsfiddle.net/jackunion/yxaaqmcg/)
 
 ![gridisgood](https://github.com/jackunion/gridisgood/blob/master/demo.png)
