@@ -1,5 +1,4 @@
 # gridisgood
-===========
 
 gridisgood is yet another grid system, heavily inspired by (gridster.js)[http://gridster.net/].
 
