@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "gridster.js inspired grid layout for React",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "react": "^0.13.1",
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
