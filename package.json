@@ -14,6 +14,12 @@
     "type": "git",
     "url": "https://github.com/jackunion/gridisgood"
   },
+  "keywords": [
+    "react",
+    "grid",
+    "drag",
+    "resize"
+  ],
   "author": "Jack Union",
   "license": "MIT",
   "bugs": {
