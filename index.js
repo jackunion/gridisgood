@@ -1,1 +1,1 @@
-module.exports = require('./dist/Grid');
+module.exports = require('./lib/Grid');

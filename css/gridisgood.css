@@ -1,7 +1,5 @@
 .Grid {
     position: relative;
-    margin: 10px;
-    padding: 5px;
     background-color: rgba(6, 60, 109, 1);
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
