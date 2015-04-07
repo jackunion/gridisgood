@@ -16,8 +16,6 @@ Cheers.
 
 npm install gridisgood
 
-## Demos
-
 ## Usage
 
 ```javascript
@@ -60,3 +58,9 @@ React.render(
 );
 
 ```
+
+## Playground
+
+(jsFiddle){http://jsfiddle.net/jackunion/yxaaqmcg/}
+
+![gridisgood](https://github.com/jackunion/gridisgood/blob/master/demo.png)
