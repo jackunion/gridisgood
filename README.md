@@ -60,6 +60,7 @@ React.render(
 
 ## Playground
 
-[jsFiddle](http://jsfiddle.net/jackunion/yxaaqmcg/)
+You can give gridisgood a go here: [jsFiddle](http://jsfiddle.net/jackunion/yxaaqmcg/)
+Scroll the js part of the window down until you see the readable code.
 
 ![gridisgood](https://github.com/jackunion/gridisgood/blob/master/demo.png)
