@@ -1,6 +1,6 @@
 # gridisgood
 
-The project is frozen, use [React-Grid-Layout](https://github.com/STRML/react-grid-layout) instead.
+**The project is frozen, use [React-Grid-Layout](https://github.com/STRML/react-grid-layout) instead.**
 
 gridisgood is yet another grid system, heavily inspired by [gridster.js](http://gridster.net/).
 
