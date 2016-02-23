@@ -1,4 +1,5 @@
 var React = require('react');
+var ReactDOM = require('react-dom');
 var Grid = require('gridisgood');
 
 var Demo = React.createClass({
@@ -31,7 +32,7 @@ var Demo = React.createClass({
     }
 });
 
-React.render(
+ReactDOM.render(
     <Demo />,
     document.body
 );

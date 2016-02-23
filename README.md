@@ -19,6 +19,7 @@ npm install gridisgood
 
 ```javascript
 var React = require('react');
+var ReactDOM = require('react-dom');
 var Grid = require('gridisgood');
 
 var Demo = React.createClass({
@@ -54,7 +55,7 @@ var Demo = React.createClass({
     }
 });
 
-React.render(
+ReactDOM.render(
     <Demo />,
     document.body
 );
@@ -94,8 +95,6 @@ var Serializable = React.createClass({
 
 ## Playground
 
-You can give gridisgood a go here: [jsFiddle](http://jsfiddle.net/jackunion/yxaaqmcg/1/)
-
-Scroll the js part of the window down until you see the readable code.
+You can give gridisgood a go here: [jsFiddle](http://jsfiddle.net/jackunion/z1jpmtmL/)
 
 ![gridisgood](https://github.com/jackunion/gridisgood/blob/master/demo.png)
