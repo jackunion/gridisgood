@@ -1,5 +1,7 @@
 # gridisgood
 
+The project is frozen, use [React-Grid-Layout](https://github.com/STRML/react-grid-layout) instead.
+
 gridisgood is yet another grid system, heavily inspired by [gridster.js](http://gridster.net/).
 
 Unlike [React-Grid-Layout](https://github.com/STRML/react-grid-layout), gridisgood does not provide drag functionality per se, using different approach to make it feel draggable. If at some point it turns out that gridisgood doesn't quite fit your needs, go check [React-Grid-Layout](https://github.com/STRML/react-grid-layout) out.
