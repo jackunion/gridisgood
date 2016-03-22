@@ -12,11 +12,6 @@ Anyway, install, beat the living daylights out of it, fork, pull, open an issue,
 
 Cheers.
 
-
-## Installation
-
-npm install gridisgood
-
 ## Basic Usage
 
 ```javascript
@@ -94,9 +89,3 @@ var Serializable = React.createClass({
             </div>
 
 ```
-
-## Playground
-
-You can give gridisgood a go here: [jsFiddle](http://jsfiddle.net/jackunion/z1jpmtmL/)
-
-![gridisgood](https://github.com/jackunion/gridisgood/blob/master/demo.png)
